@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*Changed .header div to .header main*/
-.header main {
+/*Changed .header div to .header header*/
+.header header {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
