@@ -13,6 +13,10 @@ I learned how to add semantic tags, add alt commands, fix a selctor in the headi
 
 I went into the file and went to html, scoped out what looked odd and found a tag didn't have the class file the others had. Went into css next and shortened the commands in there, as there were unnecessary commands. Added "alt" commands incase the pictures don't work. 
 
+## Images
+
+![people gathered in a meeting](./photos/Screenshot 2023-01-30 145941.png)
+
 ## Link
 
 The link to the [website](https://tonyadimey.github.io/week-1-homework/)
